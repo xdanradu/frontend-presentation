@@ -13,6 +13,9 @@
 - [Spread operator](https://stackblitz.com/edit/js-jssa3t)
 - [Other JS features](https://stackblitz.com/edit/js-h3tg5w)
 
+- [Facade 1](https://stackblitz.com/edit/rxjs-jfvson)
+- [Facade 2](https://stackblitz.com/edit/rxjs-swkyqq)
+
 ## CSS
 
 - [Selectors](https://stackblitz.com/edit/js-naebxy)
