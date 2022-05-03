@@ -29,7 +29,6 @@
 - [SASS Architecture](https://github.com/KittyGiraudel/sass-boilerplate)
 - [SASS Guidelines](https://sass-guidelin.es)
 
-
 - https://jsheroes.io
 - https://www.emag.ro
 - https://www.wearedevelopers.com/javascript-congress#speakers
