@@ -5,4 +5,4 @@ npm install
 npm run start
 ```
 
-# The examples can be seen [here](https://github.com/xdanradu/frontend-presentation/blob/main/examples.md)
+All the StackBlitz examples are [here](https://github.com/xdanradu/frontend-presentation/blob/main/examples.md)
