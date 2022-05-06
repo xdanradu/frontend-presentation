@@ -1,4 +1,6 @@
-# How to run the presentation 
+# Frontend development 2022
+
+Open the presentation by running the following commands:
 
 ```bash 
 npm install
